@@ -12,13 +12,6 @@ header {
     padding: 30px;
     border-radius: 20px;
 }
-.presupuesto p{
-    margin-bottom: 0;
-    font-weight: bold;
-}
-.presupuesto p span {
-    font-weight: normal;
-}
 #gastos {
     margin-bottom: 30px;
 }
