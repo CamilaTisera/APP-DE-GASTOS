@@ -2,7 +2,7 @@ body {
     background-color:#004e92;
 }
 header {
-    margin: 30px 0;
+    margin: 30px 0px;
 }
 .contenido {
     padding:20px;
@@ -24,12 +24,12 @@ header {
 }
 h1{
     font-family: 'Raleway', sans-serif;
-    font-weight: 100;
+    font-weight: 100px;
     color: white;
 }
 h2 {
     font-family: 'Raleway', sans-serif;
-    font-weight: 100;
+    font-weight: 100px;
     color:#004e92;
     font-size: 22px;
     margin-bottom:30px;
