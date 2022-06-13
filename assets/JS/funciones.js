@@ -76,6 +76,8 @@ var dividir = 0;
 
         }
 
+        
+
  }
 
 formulario.addEventListener('submit',function(e){
